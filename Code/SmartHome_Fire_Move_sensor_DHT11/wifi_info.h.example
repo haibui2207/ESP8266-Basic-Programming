@@ -1,0 +1,4 @@
+#define SSID ""
+#define WPA_KEY ""
+#define IP_MQTT ""
+
